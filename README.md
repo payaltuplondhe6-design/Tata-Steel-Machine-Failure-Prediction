@@ -72,3 +72,13 @@ The trained Random Forest model was deployed using Streamlit Community Cloud.
 
 ## Author
 Data Analytics and Machine Learning Project
+
+
+
+
+## Live Application
+
+Try the deployed Machine Failure Prediction application:
+
+[Open Tata Steel Machine Failure Prediction App](https://tata-steel-machine-failure-prediction-abwecebl5t7yhmbliqfugg.streamlit.app)
+
